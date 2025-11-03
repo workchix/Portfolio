@@ -7,7 +7,7 @@ plaintextstudios@mail.com OR
 redhawkj@gmail.com
 <br> 
 Welcome to my portfolio! Inside this repository, you'll find examples of my work across different
-categories. Each sub-repository contains content organized by topic or type.
+categories. Each sub-repository contains content organized by topic or type.<br> 
 Folder Guide:<br>
 ◦ API - API documentation, code examples, and integration guides.<br>
 ◦ Articles - Published articles or writing samples.<br>

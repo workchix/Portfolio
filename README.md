@@ -18,8 +18,8 @@ Folder Guide:<br><br>
 ◦ Markdown - Documentation written in Markdown format. <br> 
 ◦ SOPs - Standard Operating Procedures. <br> 
 ◦ XML - Sample XML-based structured documents. <br> 
-<br> 
-CONTACT: 
-plaintextstudios@mail.com OR
-redhawkj@gmail.com
+<br> <br>
+CONTACT: <br>
+plaintextstudios@mail.com <br>
+redhawkj@gmail.com<br>
 

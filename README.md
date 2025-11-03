@@ -3,7 +3,7 @@
 WELCOME!!
 
 CONTACT: 
-plaintextstudios@mail.com
+plaintextstudios@mail.com OR 
 redhawkj@gmail.com
 
 Welcome to my portfolio! Inside this repository, you'll find examples of my work across different
@@ -29,6 +29,6 @@ SOPs - Standard Operating Procedures.
 XML - Sample XML-based structured documents.
 
 CONTACT: 
-plaintextstudios@mail.com
+plaintextstudios@mail.com OR
 redhawkj@gmail.com
 

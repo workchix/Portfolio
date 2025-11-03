@@ -2,9 +2,9 @@
 
 WELCOME!!
 <br> 
-CONTACT: 
-plaintextstudios@mail.com OR 
-redhawkj@gmail.com
+CONTACT: <br>
+plaintextstudios@mail.com<br> 
+redhawkj@gmail.com <br>
 <br> 
 Welcome to my portfolio! Inside this repository, you'll find examples of my work across different
 categories. Each sub-repository contains content organized by topic or type.<br> <br> 

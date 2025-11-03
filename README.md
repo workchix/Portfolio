@@ -1,7 +1,7 @@
 # Portfolio
 
 WELCOME!!
-<br> 
+<br> <br>
 CONTACT: <br>
 plaintextstudios@mail.com<br> 
 redhawkj@gmail.com <br>
